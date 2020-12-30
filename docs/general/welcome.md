@@ -6,10 +6,10 @@
   <br />
   <p>
     <a href="https://discord.gg/bRCvFy9"><img src="https://img.shields.io/discord/793118787460399154?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a>
-    <a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/v/finance.io.svg?maxAge=3600" alt="NPM version" /></a>
-    <a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/dt/finance.io.svg?maxAge=3600" alt="NPM downloads" /></a>
-    <a href="https://travis-ci.org/discordjs/discord.js"><img src="https://travis-ci.org/discordjs/finance.io.svg" alt="Build status" /></a>
-    <a href="https://david-dm.org/discordjs/discord.js"><img src="https://img.shields.io/david/discordjs/finance.io.svg?maxAge=3600" alt="Dependencies" /></a>
+    <a href="https://www.npmjs.com/package/finance.io"><img src="https://img.shields.io/npm/v/finance.io.svg?maxAge=3600" alt="NPM version" /></a>
+    <a href="https://www.npmjs.com/package/finance.io"><img src="https://img.shields.io/npm/dt/finance.io.svg?maxAge=3600" alt="NPM downloads" /></a>
+    <a href="https://travis-ci.org/joeleeofficial/finance.io"><img src="https://travis-ci.org/joeleeofficial/finance.io.svg" alt="Build status" /></a>
+    <a href="https://david-dm.org/joeleeofficial/finance.io"><img src="https://img.shields.io/david/discordjs/finance.io.svg?maxAge=3600" alt="Dependencies" /></a>
   </p>
   <p>
     <a href="https://nodei.co/npm/finance.io/"><img src="https://nodei.co/npm/finance.io.png?downloads=true&stars=true" alt="NPM info" /></a>

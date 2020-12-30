@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://financial.js.org"><img src="/static/logo.svg" width="546" alt="discord.js" id="djs-logo" /></a>
+    <a href="https://financial.js.org"><img src="/static/logo.svg" width="546" alt="finance.io" id="djs-logo" /></a>
   </p>
   <br />
   <p>
